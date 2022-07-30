@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/lkbaerenfaenger/react-redux-2019-course-notes
+You can find it here: https://github.com/typeduke/react-redux-2019-course-notes
